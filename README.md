@@ -20,7 +20,10 @@ This is a project based on market research on accident fatalities and is aimed t
 
 
 ##Setup and installations
-- 
+- Have an Arduino uno board
+- Download Arduino IDE 
+- RUN sudo usermod -a -G dialout $USER
+- Clone this repo and upload it to the Arduino
 
 ## likely bugs
 Currently the application has no known bugs.
