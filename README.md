@@ -9,7 +9,7 @@
 ##Link to deployed site
 
 ## Project Description
-This is a project based on market research on accident fatalities and is aimed to curb drunk-driving. This is a software-hardware based project
+This is a project based on market research on accident fatalities and is aimed to curb drunk-driving. This is a software-hardware based project. A driver is required to undergo alcohol breath tests 
 
 ## how it works
 - A driver has to blow into the inhaler tube
@@ -19,7 +19,7 @@ This is a project based on market research on accident fatalities and is aimed t
 - There will be a display of the alcohol content in a lcd screen
 
 
-##Setup and installations
+## Setup and installations
 - Have an Arduino uno board
 - Download Arduino IDE 
 - RUN sudo usermod -a -G dialout $USER
